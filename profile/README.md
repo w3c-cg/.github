@@ -2,6 +2,8 @@
 
 W3C operates this GitHub organization to host repositories from [Community Groups](https://www.w3.org/community/) - see [Community Groups Tools and Infrastructure](https://www.w3.org/community/about/tool/).
 
+W3C does not intend to house Community Group incubations in the "w3c" organization.
+
 # Permission management
 
 CG repos in this organization get created by the W3C CG Team (team-community-process@w3.org) when asked by the Chair(s) of a Community Group.
